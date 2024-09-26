@@ -5,5 +5,9 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
-  ]
+  ],
+  app: {
+    baseURL: 'easy-link-webs/',
+    buildAssetsDir: 'assets', 
+  }
 })
