@@ -14,5 +14,6 @@ export default defineNuxtConfig({
         class: 'bg-green-200',
       },
     },
+    pageTransition: { name: 'page', mode: 'out-in' }
   }
 })
