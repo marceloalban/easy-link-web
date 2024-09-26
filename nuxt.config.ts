@@ -9,5 +9,10 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/easy-link-web',
     buildAssetsDir: 'assets', 
+    head: {
+      bodyAttrs: {
+        class: 'bg-green-200',
+      },
+    },
   }
 })
