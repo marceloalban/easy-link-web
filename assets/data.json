@@ -1,0 +1,123 @@
+{
+  "database": [
+    {
+      "id": 1,
+      "name": "Verê - PR",
+      "sites": [
+        {
+          "description": "Simepar",
+          "id": 1,
+          "logoUrl": "http://www.simepar.br/prognozweb/img/logo-site2.png",
+          "options": [
+            {
+              "description": "Previsão Diária",
+              "url": "http://www.simepar.br/prognozweb/simepar/forecast_by_counties/4128609"
+            },
+            {
+              "description": "Satélite(Mapa)",
+              "url": "http://www.simepar.br/prognozweb/simepar/satelite_goes"
+            },
+            {
+              "description": "Radar",
+              "url": "http://www.simepar.br/prognozweb/simepar/radar_msc"
+            }
+          ]
+        },
+        {
+          "description": "INMET Avisos",
+          "id": 2,
+          "logoUrl": "https://www.novaconcursos.com.br/portal/wp-content/uploads/2015/04/inmet-logo.png",
+          "options": [
+            {
+              "description": "Previsão do tempo",
+              "url": "https://portal.inmet.gov.br/"
+            }
+          ]
+        },
+        {
+          "description": "Climatempo",
+          "id": 3,
+          "logoUrl": "https://www.climatempo.com.br/dist/images/logo-climatempo-stormgeo.png",
+          "options": [
+            {
+              "description": "Previsão para Hoje",
+              "url": "https://www.climatempo.com.br/previsao-do-tempo/cidade/2927/vere-pr"
+            },
+            {
+              "description": "Previsão para Amanhã",
+              "url": "https://www.climatempo.com.br/previsao-do-tempo/amanha/cidade/2927/vere-pr"
+            },
+            {
+              "description": "Previsão para Fim de Semana",
+              "url": "https://www.climatempo.com.br/previsao-do-tempo/fim-de-semana/cidade/2927/vere-pr"
+            },
+            {
+              "description": "Previsão para 15 dias",
+              "url": "https://www.climatempo.com.br/previsao-do-tempo/15-dias/cidade/2927/vere-pr"
+            },
+            {
+              "description": "Satélite",
+              "url": "https://www.climatempo.com.br/mapas"
+            }
+          ]
+        },
+        {
+          "description": "Foreca",
+          "id": 4,
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Foreca_logo.svg/938px-Foreca_logo.svg.png",
+          "options": [
+            {
+              "description": "Previsão por Hora",
+              "url": "https://www.foreca.com/103445255/Ver%C3%AA-Brazil/hourly"
+            },
+            {
+              "description": "Previsão para 10 dias",
+              "url": "https://www.foreca.com/103445255/Ver%C3%AA-Brazil/10-day-forecast"
+            },
+            {
+              "description": "Mapa de chuva",
+              "url": "https://www.foreca.com/103445255/Ver%C3%AA-Brazil/map/rain"
+            }
+          ]
+        },
+        {
+          "description": "METSUL Meteorologia",
+          "id": 5,
+          "logoUrl": "https://metsul.com/wp-content/uploads/2019/09/metsul_logo-1.png",
+          "options": [
+            {
+              "description": "Previsão do tempo",
+              "url": "https://metsul.com/previsao/pr/vere/"
+            }
+          ]
+        },
+        {
+          "description": "Clima e Radar",
+          "id": 6,
+          "logoUrl": "https://www.climaeradar.com.br/assets/logos/preview-teaser/pt-BR_logo-isobars_16x9.png",
+          "options": [
+            {
+              "description": "Previsão do tempo",
+              "url": "https://www.climaeradar.com.br/previsao-tempo/vere/8179582"
+            }
+          ]
+        },
+        {
+          "description": "Windy",
+          "id": 7,
+          "logoUrl": "https://play-lh.googleusercontent.com/qXBOdC6WVNPPZso8m5_Z_lCiNTG130ZwHAumXlLpF5r9yaPYICJw9tGGtPt5v9yh35E",
+          "options": [
+            {
+              "description": "Mapa (Radar)",
+              "url": "https://www.windy.com/-Weather-radar-radar?radar,-25.643,-53.105,9,m:cV0aeGY"
+            },
+            {
+              "description": "Mapa (Satélite)",
+              "url": "https://www.windy.com/-Satellite-satellite?satellite,-25.643,-53.105,9,m:cV0aeGY"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
