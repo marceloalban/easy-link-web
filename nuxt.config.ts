@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
   ],
   app: {
-    baseURL: 'easy-link-webs/',
+    baseURL: '/easy-link-web',
     buildAssetsDir: 'assets', 
   }
 })
