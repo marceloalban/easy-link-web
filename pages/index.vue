@@ -1,6 +1,6 @@
 <template>
 
-    <div class="grid grid-cols-1 sm:grid-cols-2">
+    <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3">
         <NuxtLink class="flex items-center bg-green-900 m-2 rounded-xl overflow-hidden shadow-md hover:cursor-pointer"
             v-for="site in sites.sitesData.sites" :key="site.id" 
             :to="`options/${site.id}`">
